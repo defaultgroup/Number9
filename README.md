@@ -13,6 +13,8 @@
 		border: none;
 		color: blue;
 		text-align: center;
+	 	margin-bottom: 50px;
+		margin-right: 20px;
 	}
 	#mondai{
 		color:red;
