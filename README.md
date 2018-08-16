@@ -26,7 +26,7 @@
 </style>
 <script>
 	function chang(){
-		alert("정답")
+		alert("정답입니다! 마지막까지 오느라 수고하셨습니다! <br>키워드는 '세' 입니다.")
 	}
 	function nono(){
 		alert("오답")
