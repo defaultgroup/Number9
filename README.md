@@ -43,7 +43,7 @@
 	<button onclick="nono();">1.돈가스</button> &nbsp;
 	<button onclick="chang();">2.가츠동</button> &nbsp;
 	<button>3.규동</button> &nbsp;
-	<button>4.짜장면</button &nbsp;
+	<button>4.짜장면</button> &nbsp;
 	<button>5.피자</button>
 	<br>
 	<br>
