@@ -28,10 +28,10 @@
 </style>
 <script>
 	function chang(){
-		alert("정답입니다! 마지막까지 오느라 수고하셨습니다! \n키워드는 '세' 입니다.")
+		alert("정답입니다! 마지막까지 오느라 수고하셨습니다! 키워드는 '세' 입니다.")
 	}
 	function nono(){
-		alert("오답")
+		alert("오답입니다")
 	}
 </script>		
 </head>
@@ -44,9 +44,9 @@
 	<br>
 	<button onclick="nono();">1.돈가스</button> &nbsp;
 	<button onclick="chang();">2.가츠동</button> &nbsp;
-	<button>3.규동</button> &nbsp;
-	<button>4.짜장면</button> &nbsp;
-	<button>5.피자</button>
+	<button onclick="nono();">3.규동</button> &nbsp;
+	<button onclick="nono();">4.짜장면</button> &nbsp;
+	<button onclick="nono();">5.피자</button>
 	<br>
 	<a href="https://defaultgroup.github.io/END/"><button>결전입니다! 최종정답으로 가십시오!</button></a>
 	<br>
