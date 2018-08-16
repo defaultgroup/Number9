@@ -13,7 +13,7 @@
 		border: none;
 		color: blue;
 		text-align: center;
-	 	margin-bottom: 40px;
+	 	margin-bottom: 20px;
 		margin-right: 10px;
 	}
 	#mondai{
@@ -47,7 +47,6 @@
 	<button>3.규동</button> &nbsp;
 	<button>4.짜장면</button> &nbsp;
 	<button>5.피자</button>
-	<br>
 	<br>
 	<a href="https://defaultgroup.github.io/END/"><button>결전입니다! 최종정답으로 가십시오!</button></a>
 	<br>
